@@ -1,7 +1,7 @@
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
 # 你的Bot的Token
-TOKEN = 'YOUR_BOT_TOKEN'
+TOKEN = '6877106792:AAFFEd4G9Shu33m0WBhWjEcL1iTE6l8lrRs'
 
 def start(update, context):
     """发送一条欢迎消息当命令/start被 issued."""
